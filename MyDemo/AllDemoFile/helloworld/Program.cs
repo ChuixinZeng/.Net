@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace helloworld
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // This is a comment
-            Console.WriteLine("Hello World");
 
+           string firstcode = "hello world!";
+            Console.WriteLine(firstcode);
             Console.ReadLine();
-             
+
         }
     }
 }

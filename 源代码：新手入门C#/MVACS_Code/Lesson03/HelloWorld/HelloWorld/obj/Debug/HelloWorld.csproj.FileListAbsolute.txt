@@ -7,3 +7,9 @@ c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\o
 C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\GitHub\VSCodeForC-\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

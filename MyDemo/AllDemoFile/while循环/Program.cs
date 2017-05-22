@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace while循环
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // This is a comment
-            Console.WriteLine("Hello World");
-
-            Console.ReadLine();
-             
+            int i = 0;
+            while (i < 1000)
+            {
+                Console.WriteLine("下次一定注意！");
+                i++;
+            }
         }
     }
 }
