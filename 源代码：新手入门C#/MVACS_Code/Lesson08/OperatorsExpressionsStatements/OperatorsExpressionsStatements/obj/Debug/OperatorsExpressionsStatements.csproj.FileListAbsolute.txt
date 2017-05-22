@@ -1,0 +1,2 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson08\OperatorsExpressionsStatements\OperatorsExpressionsStatements\bin\Debug\OperatorsExpressionsStatements.exe.config

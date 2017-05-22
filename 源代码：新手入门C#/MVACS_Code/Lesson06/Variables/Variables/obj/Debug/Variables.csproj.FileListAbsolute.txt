@@ -1,0 +1,9 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\bin\Debug\Variables.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson06\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson06\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson06\Variables\Variables\obj\Debug\Variables.pdb

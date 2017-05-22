@@ -1,0 +1,9 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson14\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson14\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson14\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb

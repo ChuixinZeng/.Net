@@ -1,0 +1,12 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\obj\Debug\ForIterations.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson09\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache

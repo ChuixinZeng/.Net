@@ -1,0 +1,12 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson07\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache

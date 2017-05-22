@@ -1,0 +1,9 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson03\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

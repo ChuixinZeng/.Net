@@ -1,0 +1,9 @@
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\bin\Debug\Strings.exe.config
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\bin\Debug\Strings.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\bin\Debug\Strings.pdb
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\obj\Debug\Strings.exe
+c:\users\bob tabor\documents\visual studio 2013\Projects\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson13\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson13\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\zengchuixin\Desktop\源代码：新手入门C#\MVACS_Code\Lesson13\Strings\Strings\obj\Debug\Strings.pdb
