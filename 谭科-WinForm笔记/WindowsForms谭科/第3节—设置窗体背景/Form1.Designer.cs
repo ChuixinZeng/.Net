@@ -1,6 +1,6 @@
-﻿namespace 第2节_窗体的常用属性
+﻿namespace 第3节_设置窗体背景
 {
-    partial class frmMain
+    partial class Form1
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // frmMain
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "frmMain";
-            this.Text = "第2节";
+            this.BackColor = System.Drawing.SystemColors.Highlight;
+            this.ClientSize = new System.Drawing.Size(784, 561);
+            this.Name = "Form1";
+            this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Click += new System.EventHandler(this.Form1_Click);
             this.ResumeLayout(false);
