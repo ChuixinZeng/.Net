@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 第8节_ListBox列表框_上_
+namespace 第8节_ListBox列表框
 {
     static class Program
     {
