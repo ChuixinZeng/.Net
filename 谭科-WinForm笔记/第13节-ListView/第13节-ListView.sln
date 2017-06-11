@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第13节-ListView", "第13节-ListView\第13节-ListView.csproj", "{6438004A-B148-42F7-9A1A-432F21203186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6438004A-B148-42F7-9A1A-432F21203186}.Debug|x86.ActiveCfg = Debug|x86
+		{6438004A-B148-42F7-9A1A-432F21203186}.Debug|x86.Build.0 = Debug|x86
+		{6438004A-B148-42F7-9A1A-432F21203186}.Release|x86.ActiveCfg = Release|x86
+		{6438004A-B148-42F7-9A1A-432F21203186}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
