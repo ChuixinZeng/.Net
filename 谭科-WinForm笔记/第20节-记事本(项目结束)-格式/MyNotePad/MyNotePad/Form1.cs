@@ -80,7 +80,7 @@ namespace MyNotePad
                 {
                     return;
                 }
-                if (dr==DialogResult.Yes)//是
+                if (dr == DialogResult.Yes)//是
                 {
                     WriteTextToFile();
                 }
@@ -96,7 +96,7 @@ namespace MyNotePad
         private void rtbContents_TextChanged(object sender, EventArgs e)
         {
             this.isSaved = false;
-            tssCount.Text = rtbContents.TextLength.ToString(); //左下角显示选择的文本字数
+            tssCount.Text = rtbContents.TextLength.ToString();
         }
 
         //另存为
@@ -128,6 +128,27 @@ namespace MyNotePad
         private void tssmChooseAll_Click(object sender, EventArgs e)
         {
             rtbContents.SelectAll();
+        }
+
+        //自动换行
+        private void tssmWordWrap_Click(object sender, EventArgs e)
+        {
+            rtbContents.WordWrap = tssmWordWrap.Checked; //把自动换行的按钮和文本框的自动换行值关联起来
+        }
+
+        //字体和颜色，弹出字体窗口的控件和openfilediag类似
+        private void tssmFont_Click(object sender, EventArgs e)
+        {
+
+            //在debug目录下面，有一个AppFont.xml的文件
+            fdFont.Font = rtbContents.Font;
+            fdFont.Color = rtbContents.ForeColor;
+            if (fdFont.ShowDialog() == DialogResult.OK)
+            {
+                rtbContents.ForeColor = fdFont.Color;
+                rtbContents.Font = fdFont.Font;
+                //把这些设置，保存到配置文件
+            }
         }
     }
 }
