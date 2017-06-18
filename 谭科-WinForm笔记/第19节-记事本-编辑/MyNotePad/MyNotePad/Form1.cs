@@ -49,7 +49,7 @@ namespace MyNotePad
             WriteTextToFile();
         }
 
-        //保存数据到文件方法
+        //保存数据到文件
         private void WriteTextToFile()
         {
             if (fileName == "")//未保存过的新文件
@@ -75,7 +75,7 @@ namespace MyNotePad
         {
             if (this.isSaved == false)//文件未保存
             {
-                DialogResult dr = MessageBox.Show(null, "文件尚未保存，是否保存？", "警告", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button3);//YesNoCsncel代表设置按钮
+                DialogResult dr = MessageBox.Show(null, "文件尚未保存，是否保存？", "警告", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question, MessageBoxDefaultButton.Button3);
                 if (dr == DialogResult.Cancel)//取消
                 {
                     return;
@@ -89,13 +89,14 @@ namespace MyNotePad
             this.Text = "无标题 - 记事本";
             rtbContents.Clear();
             this.isSaved = false;
-            this.fileName = ""; //防止新建文件的时候，覆盖之前的文件，filename设置为空就可以了
+            this.fileName = "";
         }
 
-        //文本发生变化的事件 
+        //文本发生变化的事件
         private void rtbContents_TextChanged(object sender, EventArgs e)
         {
             this.isSaved = false;
+            tssCount.Text = rtbContents.TextLength.ToString();
         }
 
         //另存为
@@ -103,6 +104,30 @@ namespace MyNotePad
         {
             fileName = "";
             WriteTextToFile();
+        }
+
+        //剪切
+        private void tssmCut_Click(object sender, EventArgs e)
+        {
+            rtbContents.Cut();
+        }
+
+        //复制
+        private void tssmCopy_Click(object sender, EventArgs e)
+        {
+            rtbContents.Copy();
+        }
+
+        //粘贴
+        private void tssmPaste_Click(object sender, EventArgs e)
+        {
+            rtbContents.Paste();
+        }
+
+        //全选
+        private void tssmChooseAll_Click(object sender, EventArgs e)
+        {
+            rtbContents.SelectAll();
         }
     }
 }
