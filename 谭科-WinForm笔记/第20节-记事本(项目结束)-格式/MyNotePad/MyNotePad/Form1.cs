@@ -148,6 +148,8 @@ namespace MyNotePad
                 rtbContents.ForeColor = fdFont.Color;
                 rtbContents.Font = fdFont.Font;
                 //把这些设置，保存到配置文件
+                // rtbContents.ForeColor = fdFont.Color;
+                //rtbContents.Font = fdFont.Font;
                 //
 
             }
